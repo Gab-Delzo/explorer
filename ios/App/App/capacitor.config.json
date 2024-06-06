@@ -1,0 +1,11 @@
+{
+	"appId": "ionic.explorer",
+	"appName": "explorer",
+	"webDir": "www",
+	"packageClassList": [
+		"AppPlugin",
+		"HapticsPlugin",
+		"KeyboardPlugin",
+		"StatusBarPlugin"
+	]
+}
